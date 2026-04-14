@@ -308,6 +308,7 @@
             .tour-info { flex-direction: column; gap: 15px; }
             .tour-actions { width: 100%; justify-content: center; }
             .ticket-prices { justify-content: center; }
+            .venue-links { justify-content: center; }
         }
 
         @media (max-width: 768px) {
@@ -348,14 +349,14 @@
                         <span class="tour-city">Madrid</span>
                         <span class="tour-place">Palacio Vistalegre</span>
                         <div class="ticket-prices">
-                            <span class="price-badge">Pista General: <strong>26.50€</strong></span>
+                            <span class="price-badge">Pista Gral: <strong>26.50€</strong></span>
                             <span class="price-badge">Grada: <strong>40€</strong></span>
                             <span class="price-badge">Early Entry: <strong>52€</strong></span>
                             <span class="price-badge">Ticket VIP: <strong>120€</strong></span>
                         </div>
                         <div class="venue-links">
                             <a href="https://www.palaciovistalegre.com/" target="_blank" class="venue-link"><i class="fas fa-globe"></i> WEB RECINTO</a>
-                            <a href="https://maps.app.goo.gl/yYvP2z8X6p9m9N5Y8" target="_blank" class="venue-link"><i class="fas fa-map-marker-alt"></i> MAPA</a>
+                            <a href="http://googleusercontent.com/maps.google.com/21" target="_blank" class="venue-link"><i class="fas fa-map-marker-alt"></i> MAPA</a>
                         </div>
                     </div>
                 </div>
@@ -381,7 +382,7 @@
                         </div>
                         <div class="venue-links">
                             <a href="https://palausantjordi.barcelona/es/sant-jordi-club" target="_blank" class="venue-link"><i class="fas fa-globe"></i> WEB RECINTO</a>
-                            <a href="https://maps.app.goo.gl/9D6U8vS7p5m9N5Y8" target="_blank" class="venue-link"><i class="fas fa-map-marker-alt"></i> MAPA</a>
+                            <a href="http://googleusercontent.com/maps.google.com/22" target="_blank" class="venue-link"><i class="fas fa-map-marker-alt"></i> MAPA</a>
                         </div>
                     </div>
                 </div>
@@ -412,7 +413,7 @@
             <p>Los menores de 16 años sólo podrán acceder al recinto acompañados de su padre, madre o tutor legal, previa cumplimentación del formulario correspondiente (solo requerido en Barcelona).</p>
             <div class="form-links">
                 <a href="https://palausantjordi.barcelona/es/informacion/acceso-de-menores/" target="_blank" class="form-link">
-                    <i class="fas fa-file-download"></i> AUTORIZACIÓN (BARCELONA)
+                    <i class="fas fa-file-download"></i> DESCARGAR AUTORIZACIÓN (BARCELONA)
                 </a>
             </div>
         </section>
